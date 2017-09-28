@@ -1,0 +1,40 @@
+body {
+    background-color: #050505;
+    margin: 0;
+    text-shadow: 1px 1px 3px #111;
+    background-image: url('sky-background.jpg');
+}
+
+#main-title {
+    color: #ccc;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.btns-line {
+    text-align: center;
+    padding: 30px;
+}
+
+.btn {
+    color: #ccc;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+#niveis>a:hover {
+    color: #fff;
+}
+
+#about {
+    text-align: center;
+    color: #ccc;
+    font-family: 'Poppins', sans-serif;
+}
