@@ -36,7 +36,7 @@ body {
     font-family: 'Julius Sans One', sans-serif;
     font-size: 25px;
 }
-.word>ul {
+.word>ul, p{
     font-family: 'Poppins', sans-serif;
     list-style-type: none;
 }
@@ -67,6 +67,10 @@ a:active {
     border: 1px solid #303030;
     padding: 10px 20px;
     border-radius: 10px;
+}
+
+.btn-small:hover {
+    color: #000;
 }
 
 #selected {
